@@ -1,24 +1,19 @@
 
-Terminal FAP-TEK
-
-Accede aquí a la exposición
+# Terminal FAP-TEK
+WebGL/VR/AR Exhibition
+https://faptek.com/terminal/
 
 El Festival de Arte, Pensamiento y Tecnología FAP-TEK acoge una exposición en forma de entorno virtual inmersivo, diseñado por la artista digital Miyö Van Stenis, junto con la curadora Paula Cárcamo en colaboración con Cecilia Almirón. Este espacio 360º cobra forma a su vez con la colaboración de lxs cuatro artistas cuyas obras conforman la exposición:  Julia C. Parodi, Juan Covelli, Liliana Farber y Perla Zúñiga. El sonido ha sido diseñado por Daniel Sanz, y los elementos de la identidad visual del festival integrados en la exposición, por Daira Cañete.
 
 INSTRUCCIONES Y RECOMENDACIONES:
 
  Se recomienda usar Chrome o Firefox como navegadores. La exposición es una experiencia inmersiva para ser visualizada en un ordenador, dispositivos móviles no son recomendados.
+1. Usa el ratón o trackpad de tu ordenador para controlar el rango de visión de la cámara. Usa las teclas “W”, “S”, “A”, “D” (teclados QWERTY) o las teclas direccionales para desplazarse en el espacio.
+2. La letra “T” cierra y abre el texto de la exposición. La tecla “Escape” desbloquea el cursor del ratón y te permitirá hacer click al botón “pantalla completa” en la parte inferior derecha de tu pantalla.
+3. Los carros de aeropuerto dentro de la terminal de la exposición son portales para entrar a los universos de cada artista. Camina hacia ellos para activar la transición, un sonido te avisará que has entrado en dicha zona de transición al igual que aparecerá el nombre del artista a quién pertenece el portal. Dirígete al carro de aeropuerto y espera unos segundos para la transición.
+4. Para volver a la terminal de la exposición usa el portal “Salida” ubicado en cada uno de los universos. Usa el mismo protocolo para activar la zona de transición. 
 
-    Usa el ratón o trackpad de tu ordenador para controlar el rango de visión de la cámara. Usa las teclas “W”, “S”, “A”, “D” (teclados QWERTY) o las teclas direccionales para desplazarse en el espacio.
-    La letra “T” cierra y abre el texto de la exposición. La tecla “Escape” desbloquea el cursor del ratón y te permitirá hacer click al botón “pantalla completa” en la parte inferior derecha de tu pantalla.
-    Los carros de aeropuerto dentro de la terminal de la exposición son portales para entrar a los universos de cada artista. Camina hacia ellos para activar la transición, un sonido te avisará que has entrado en dicha zona de transición al igual que aparecerá el nombre del artista a quién pertenece el portal. Dirígete al carro de aeropuerto y espera unos segundos para la transición.
-    Para volver a la terminal de la exposición usa el portal “Salida” ubicado en cada uno de los universos. Usa el mismo protocolo para activar la zona de transición. 
-
-
-
-# FAP-Tek
-WebGL/VR/AR Exhibition
-
+# Contenido
 
 World #1: Entrada 
 World #2: Espacio Artista 
